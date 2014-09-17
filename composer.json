@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Extracting templating for PHP 5.3",
     "keywords": ["templating"],
-    "homepage": "http://github.com/Seldaek/monolog",
     "license": "MIT",
     "authors": [
         {
