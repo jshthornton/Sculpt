@@ -1,6 +1,6 @@
 <?php
  
-class Stencil {
+class Sculpt {
 	public static $EXTENSION = '.tpl.php';
 
 	public static function parse($__path, $__data = array()) {
