@@ -1,4 +1,4 @@
-<?php
+<?php namespace Sculpt;
  
 class Sculpt {
 	public static $EXTENSION = '.tpl.php';
